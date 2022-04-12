@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\בינה מלאכותית\vs2017test\vs2017test\main.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  vs2017test.vcxproj -> C:\בינה מלאכותית\vs2017test\Debug\vs2017test.exe
